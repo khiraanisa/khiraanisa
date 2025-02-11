@@ -1,16 +1,59 @@
-## Hi there 👋
+## Hi there 🎉
+<h1 align="center">👋 Hello, I'm FAKHIRA ANISA!</h1>
 
-<!--
-**khiraanisa/khiraanisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=22&color=00A86B&center=true&vCenter=true&lines=Bioinformatics+Student;Data+Science+Enthusiast;Still+Learning;" alt="Typing SVG">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧬 About Me  
+- 🎓 **First-year UTM student studying Bioinformatics**  
+- 🖥️ **Passionate about biology & data analysis**  
+- 📚 **Currently learning:** C++ and open to other tools 
+- 🧪 **Interested in:** Genomics, AI in biology, and computational biology  
+- 🌱 **Looking to explore:** Machine learning in bioinformatics  
+
+---
+
+## 🛠️ Tech & Tools  
+
+📌 **Currently Learning:**  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+
+💡 **Writing code, fixing errors, and learning something new every day!**  
+
+---
+
+## 🎯 What I'm Working On  
+✅ Understanding **C++ basics** (variables, loops, functions!)  
+✅ Practicing **problem-solving** with C++  
+✅ Exploring how **bioinformatics uses coding**  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khiraanisa&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khiraanisa&theme=tokyonight" alt="GitHub Streak" width="48%">
+</p>
+
+---
+
+## 🌎 Let's Connect & Chat  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/fakhira-anisa-184688350/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:fakhiraanisa@graduate.utm.my"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+</p>
+
+---
+
+💬 **Fun Fact:** _Did you know that if you unraveled all the DNA in your body, it could reach the sun and back **~600 times**?_ 🌞🧬  
+
+🚀 **Let’s make science and coding fun! Drop by my GitHub and say hi!** 🎉
+
+---
+ 
+
