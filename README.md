@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hello, I'm FAKHIRA ANISA!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=22&color=00A86B&center=true&vCenter=true&lines=Bioinformatics+Student;Data+Science+Enthusiast;Still+Learning;" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=22&color=00A86B&center=true&vCenter=true&lines=Bioinformatics+Student;Data+Science+Enthusiast;Still+Learning;" alt="Typing SVG">
 </p>
 
 ---
@@ -52,7 +52,7 @@
 
 💬 **Fun Fact:** _Did you know that if you unraveled all the DNA in your body, it could reach the sun and back **~600 times**?_ 🌞🧬  
 
-🚀 **Let’s make science and coding fun! Drop by my GitHub and say hi!** 🎉
+🚀 **Let’s make biology and coding fun! Drop by my GitHub and say hi!** 🎉
 
 ---
  
