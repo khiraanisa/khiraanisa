@@ -29,8 +29,7 @@
 
 ## 🎯 What I'm Working On  
 ✅ Understanding **C++ basics** (variables, loops, functions!)  
-✅ Practicing **problem-solving** with C++ and BlueJ
-✅ Exploring how **bioinformatics uses coding**  
+✅ Practicing **problem-solving** with C++ and BlueJ 
 
 ---
 
