@@ -1,5 +1,5 @@
-## Hi there 🎉
-<h1 align="center">👋 Hello, I'm FAKHIRA ANISA!</h1>
+## Hi there! 🥰
+<h1 align="center">👋 Hello, I'm FAKHIRA ANISA 🤍</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=22&color=00A86B&center=true&vCenter=true&lines=Bioinformatics+Student;Data+Science+Enthusiast;Still+Learning;" alt="Typing SVG">
@@ -10,7 +10,7 @@
 ## 🧬 About Me  
 - 🎓 **First-year UTM student studying Bioinformatics**  
 - 🖥️ **Passionate about biology & data analysis**  
-- 📚 **Currently learning:** C++ and open to other tools 
+- 📚 **Currently learning:** C++, BlueJ and open to other tools 
 - 🧪 **Interested in:** Genomics, AI in biology, and computational biology  
 - 🌱 **Looking to explore:** Machine learning in bioinformatics  
 
@@ -50,8 +50,6 @@
 </p>
 
 ---
-
-💬 **Fun Fact:** _Did you know that if you unraveled all the DNA in your body, it could reach the sun and back **~600 times**?_ 🌞🧬  
 
 🚀 **Let’s make biology and coding fun! Drop by my GitHub and say hi!** 🎉
 
