@@ -19,7 +19,9 @@
 ## 🛠️ Tech & Tools  
 
 📌 **Currently Learning:**  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)  [![BlueJ](https://img.shields.io/badge/BlueJ-0033A0?style=for-the-badge&logo=BlueJ&logoColor=white)](https://www.bluej.org/)
+
+
 
 💡 **Writing code, fixing errors, and learning something new every day!**  
 
@@ -27,7 +29,7 @@
 
 ## 🎯 What I'm Working On  
 ✅ Understanding **C++ basics** (variables, loops, functions!)  
-✅ Practicing **problem-solving** with C++  
+✅ Practicing **problem-solving** with C++ and BlueJ
 ✅ Exploring how **bioinformatics uses coding**  
 
 ---
