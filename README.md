@@ -7,8 +7,7 @@
 
 ---
 
-## 🧬 About Me  
-- 🎓 **First-year UTM student studying Bioinformatics**  
+## 🧬 About Me   
 - 🖥️ **Passionate about biology & data analysis**  
 - 📚 **Currently learning:** C++, BlueJ and open to other tools 
 - 🧪 **Interested in:** Genomics, AI in biology, and computational biology  
@@ -29,7 +28,7 @@
 
 ## 🎯 What I'm Working On  
 ✅ Understanding **C++ basics** (variables, loops, functions!)  
-✅ Practicing **problem-solving** with C++ and BlueJ 
+✅ Practicing **problem-solving** with C++ and IntelliJ 
 
 ---
 
