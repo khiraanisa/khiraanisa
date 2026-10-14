@@ -1,5 +1,5 @@
-## Hi there! 🥰
-<h1 align="center">👋 Hello, I'm FAKHIRA ANISA 🤍</h1>
+## Hi there!
+<h1 align="center">Hello, I'm Fakhira Anisa</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=22&color=00A86B&center=true&vCenter=true&lines=Bioinformatics+Student;Data+Science+Enthusiast;Still+Learning;" alt="Typing SVG">
@@ -9,7 +9,7 @@
 
 ## 🧬 About Me   
 - 🖥️ **Passionate about biology & data analysis**  
-- 📚 **Currently learning:** C++, BlueJ and open to other tools 
+- 📚 **Currently learning:** C++, JavaScript and open to other tools 
 - 🧪 **Interested in:** Genomics, AI in biology, and computational biology  
 - 🌱 **Looking to explore:** Machine learning in bioinformatics  
 
@@ -18,11 +18,7 @@
 ## 🛠️ Tech & Tools  
 
 📌 **Currently Learning:**  
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)  [![BlueJ](https://img.shields.io/badge/BlueJ-0033A0?style=for-the-badge&logo=BlueJ&logoColor=white)](https://www.bluej.org/)
-
-
-
-💡 **Writing code, fixing errors, and learning something new every day!**  
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)  [![BlueJ](https://img.shields.io/badge/BlueJ-0033A0?style=for-the-badge&logo=BlueJ&logoColor=white)](https://www.bluej.org/)  
 
 ---
 
@@ -50,7 +46,7 @@
 
 ---
 
-🚀 **Let’s make biology and coding fun! Drop by my GitHub and say hi!** 🎉
+**Let’s make biology and coding fun! Drop by my GitHub and say hi!** 
 
 ---
  
